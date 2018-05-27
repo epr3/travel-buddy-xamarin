@@ -1,0 +1,9 @@
+D:\Master ASE\travel-buddy-xamarin\travel-buddy-xamarin\travel-buddy-xamarin\bin\Debug\netstandard2.0\travel-buddy-xamarin.deps.json
+D:\Master ASE\travel-buddy-xamarin\travel-buddy-xamarin\travel-buddy-xamarin\bin\Debug\netstandard2.0\travel-buddy-xamarin.dll
+D:\Master ASE\travel-buddy-xamarin\travel-buddy-xamarin\travel-buddy-xamarin\bin\Debug\netstandard2.0\travel-buddy-xamarin.pdb
+D:\Master ASE\travel-buddy-xamarin\travel-buddy-xamarin\travel-buddy-xamarin\obj\Debug\netstandard2.0\travel-buddy-xamarin.csprojAssemblyReference.cache
+D:\Master ASE\travel-buddy-xamarin\travel-buddy-xamarin\travel-buddy-xamarin\obj\Debug\netstandard2.0\travel-buddy-xamarin.csproj.CoreCompileInputs.cache
+D:\Master ASE\travel-buddy-xamarin\travel-buddy-xamarin\travel-buddy-xamarin\obj\Debug\netstandard2.0\travel-buddy-xamarin.AssemblyInfoInputs.cache
+D:\Master ASE\travel-buddy-xamarin\travel-buddy-xamarin\travel-buddy-xamarin\obj\Debug\netstandard2.0\travel-buddy-xamarin.AssemblyInfo.cs
+D:\Master ASE\travel-buddy-xamarin\travel-buddy-xamarin\travel-buddy-xamarin\obj\Debug\netstandard2.0\travel-buddy-xamarin.dll
+D:\Master ASE\travel-buddy-xamarin\travel-buddy-xamarin\travel-buddy-xamarin\obj\Debug\netstandard2.0\travel-buddy-xamarin.pdb
